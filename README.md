@@ -37,16 +37,10 @@ This project involves creating a shell-like utility to interpret and manipulate 
 
 ## File Listing
 ```
-filesys/
+root/
 │
 ├── src/
-│ ├── lexer.c
 │ └── filesys.c
-│
-├── include/
-│ └── lexer.h
-│ └── ...
-│
 ├── README.md
 └── Makefile
 ```
