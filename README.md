@@ -21,7 +21,7 @@ This project involves creating a shell-like utility to interpret and manipulate 
 
 ### Part 4: Read
 - **Responsibilities**: Adds file operations to the shell, including opening files with specific modes, closing them, listing open files, retrieving file size, adjusting file offsets, and reading file data. It manages a data structure for open files and includes error handling for invalid operations.
-- **Assigned to**: Rachel Andris
+- **Assigned to**: Rachel Andris, Elizabeth Sauer
 
 ### Part 5: Update
 - **Responsibilities**: Enables file and directory updates in the shell. The write command writes a string to a file, extending its size if needed, while updating the file's offset. The rename command renames files or directories, with error handling for invalid operations or conflicts.
